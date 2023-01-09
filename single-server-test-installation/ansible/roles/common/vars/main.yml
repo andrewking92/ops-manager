@@ -1,0 +1,4 @@
+mongodb_repo: mongodb-enterprise-6.0.repo
+om_download_url: https://downloads.mongodb.com/on-prem-mms/rpm/mongodb-mms-6.0.7.100.20221129T1435Z.x86_64.rpm
+tuned_conf: /etc/tuned/mongodb/tuned.conf
+mongo_mongoUri: mongo.mongoUri=mongodb://root:admin@127.0.0.1:27017/
