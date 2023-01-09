@@ -1,0 +1,5 @@
+tuned_conf: /etc/tuned/mongodb/tuned.conf
+mms_agent_download_url: XXXX
+mmsGroupId: XXXX
+mmsApiKey: XXXX
+mmsBaseUrl: XXXX
